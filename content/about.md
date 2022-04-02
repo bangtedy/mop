@@ -12,9 +12,13 @@ Tutor: [Tedy Herlambang](https://bangtedy.github.io)
 
 ### Sekilas Tentang MOP
 
-Manajemen Operasi ini mempelajari masalah operasi dalam organisasi atau perusahaan yang mencakup pengambilan keputusan jangka panjang, menengah dan jangka pendek yang harus dilakukan oleh manajer operasional, seperti pengambilan keputusan untuk desain produk, proses, dan kapasitas; lokasi perusahaan dan tata letak perusahaan; pengelolaan kualitas dan persediaan; perencanaan dan penyusunan penjadwalan proses; pengelolaan sumber daya manusia dalam kegiatan operasional; pengelolaan rantai pasokan perusahaan dan manajemen proyek;serta berbagai teknik yang membantu manajer operasional dalam mengambil keputusan di bidang operasional.
+Manajemen Operasi ini mempelajari masalah operasi dalam organisasi atau perusahaan yang mencakup pengambilan keputusan jangka panjang, menengah dan jangka pendek yang harus dilakukan oleh manajer operasional. 
 
-Buku Rujukan Utama
+Jenis pengambilan keputusan yang dibahas seperti pengambilan keputusan untuk desain produk, proses, dan kapasitas; lokasi perusahaan dan tata letak perusahaan; pengelolaan kualitas dan persediaan; perencanaan dan penyusunan penjadwalan proses; pengelolaan sumber daya manusia dalam kegiatan operasional; pengelolaan rantai pasokan perusahaan dan manajemen proyek.
+
+Selain itu juga akan dibahas berbagai teknik yang membantu manajer operasional dalam mengambil keputusan di bidang operasional.
+
+Buku Rujukan Utama:
 
 1. Ariani, Dorothea Wahyu. 2017. Manajemen Operasi. Penerbit Universitas Terbuka
 

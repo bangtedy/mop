@@ -30,18 +30,22 @@ Secara Umum, setelah mempelajari Modul ini mahasiswa diharapkan dapat menjelaska
 
 ### A. Pengertian Manajemen Operasional
 
-- Setiap organisasi agar tetap *exist* harus menciptakan nilai dalam bentuk solusi, produk dan jasa untuk pelanggan. Caranya adalah mentransformasikan sumberdaya yang dimiliki menjadi solusi yang dipakai oleh pelanggan.
-- **Operasional** proses transformasi dari input menjadi output dengan tambahan nilai.
+- Setiap organisasi agar tetap *exist* harus menciptakan nilai dalam bentuk solusi, produk dan jasa untuk pelanggan. Caranya adalah mentransformasi sumberdaya yang dimiliki menjadi solusi yang dipakai oleh pelanggan.
+- **Operasional** proses transformasi input menjadi output dengan tambahan nilai (*value-added*).
 - **Manajemen Operasional**: seperangkat kegiatan menciptakan nilai produk atau jasa yang dihasilkan melalui proses transformasi input menjadi output.
 - **Manajer Operasional**: mengawasi proses transformasi tersebut, melakukan perencanaan dan desain sistem operasional, serta mengelola kebutuhan material, kualitas dan produktivitas.
+
+```
+Operations management is about how organizations create and
+deliver services and products.
+```
 
 **PERHATIKAN** ilustrasi berikut:
 
 - Everything you wear, sit on, use, or read in the Mosque during Tarawih comes to you courtesy of the operations managers who organized its creation and delivery.
 - Every lecture you attend at university, every book you borrow from the library, every treatment you receive at the hospital, every meal you receive at your chosen cafe, every service you expect in the shops – all have been created by operations managers. 
-- The people who supervised their creation and delivery may not always be called ‘operations managers’, --> walaupun mereka tidak selalu disebut demikian. 
-- Makul ini berkaitan tugas manajer operasi: the tasks, issues and decisions of those
-operations managers who have made the services and products on which we all depend.
+- Orang yang mengawasi penciptaan dan pendistribusian barang dan jasa disebut 'manajer operasi', walaupun mereka tidak selalu disebut demikian.
+- Makul ini berkaitan dengan tugas, permasalahan dan keputusan manajer operasi yang membuat barang dan jasa yang dibutuhkan oleh pelanggan. 
 
 ---
 
@@ -65,7 +69,7 @@ knitr::include_graphics("input-output-transformation.png")
   - Some store the information, such as archives and libraries. 
   - Some operations, such as telecommunication companies, change the location of the information.
 
-**Transformasi**
+- Pelanggan/(*Customers*)
 
   - operations which process customers might change their physical properties in a similar way to materials processors: for example, hairdressers or cosmetic surgeons.
   - Some store (or more politely accommodate) customers: hotels, for example. 
@@ -73,17 +77,17 @@ knitr::include_graphics("input-output-transformation.png")
   - Some are concerned with transforming their psychological state: for example, 
 most entertainment services such as music, theatre, television, radio and theme parks.
 
-Customer
+--> Khusus Pelanggan
 
   - they are not always simple ‘passive’ items to be processed. They can also play a more active part in many operations and processes. For example, they create the atmosphere in a restaurant; they provide the stimulating environment in learning groups in education, they provide information at check-in desks, and so on. 
-  - When customers play this role, it is usually referred to as ‘co-production’ because the customer plays a vital part in the provision of the product/ service offering.
+  - When customers play this role, it is usually referred to as ‘co-production’ because the customer plays a vital part in the provision of the product/service offering.
 
 ```{r out.width= "120%", echo=FALSE}
 knitr::include_graphics("input-dominan-transformasi.png")
 ```
 `Sumber: Nigel Slack and Alistair Brandon-Jones (2019)`
 
-**Outputs from the process**
+**Keluaran dari Proses (outputs from the process)**
 
 - Operations create products and services. Products and services are different.
 - Products are usually tangible things whereas services are activities or processes. 
@@ -94,13 +98,13 @@ knitr::include_graphics("input-dominan-transformasi.png")
 
 ---
 
-### Nilai Tambah
+### Nilai Tambah (*value-added*)
 
 - Esensi dari fungsi operasi adalah menciptakan nilai tambah dalam proses transformasi.
-- Nilai tambah (*Value-added*) adalah perbedaan antara biaya masukan/input dengan nilai atau harga dari keluaran/output.
-- Di dalam organisasi non profit, nilai dari outputnya (polisi, TNI, pemadam kebakaran) adalah nilai mereka pada masyarakat (keamanan, kenyamanan, dll); semakin besar nilai tambah yang diberikan, artinya semakin efektif operasi mereka. 
+- Nilai tambah (*value-added*) adalah perbedaan antara biaya masukan/input dengan nilai atau harga dari keluaran/output.
+- Di dalam organisasi non profit, nilai dari outputnya (misalnya polisi, TNI, pemadam kebakaran) adalah nilai mereka pada masyarakat (keamanan, kenyamanan, dll); semakin besar nilai tambah yang diberikan, artinya semakin efektif operasi mereka. 
 - Di dalam organisasi dengan tujuan profit, nilai dari output diukur dari harga yang ingin dibayar oleh pelanggan untuk barang atau jasa mereka.  
-- Perusahaan menggunakan uang untuk yang diperoleh dari nilai tambah untuk kegiatan litbang, investasi fasilitas dan peralatan baru, gaji karyawan dan keuntungan.
+- Perusahaan menggunakan uang untuk yang diperoleh dari nilai tambah untuk kegiatan R&D, investasi fasilitas dan peralatan baru, gaji karyawan dan keuntungan.
 - Semakin besar nilai tambah semakin banyak dana yang tersedia untuk kegiatan ini.
 - Nilai juga bisa dalam bentuk psikologis seperti branding. 
 
@@ -118,9 +122,11 @@ knitr::include_graphics("perbedaan-barang-jasa.png")
 ```
 `Sumber: Jay Heizer, Barry Render, and Chuck Munson (2020)`
 
+---
+
 ### Prinsip Operasi
 
-Hampir semua operasi menghasilkan barang dan jasa
+Hampir semua operasi menghasilkan barang dan jasa, dan
 
 ```
 Perbedaan antara operasi yang menghasilkan produk atau jasa 
@@ -137,28 +143,30 @@ menghasilkan layanan bagi pelanggannya.
 An effective operations management effort must have a **mission** so it knows *where it is going* and a **strategy** so it knows *how to get there*.
 
 **Misi**: the purpose or rationale for an organization’s existence
+
 **Strategi**: suatu langkah untuk menyusun rencana kegiatan yang dilakukan secara sengaja yang dapat menciptakan dan menyusun keunggulan bersaing.
 
 ### Mencapai Keunggulan Bersaing melalui Strategi Operasional
 
-Keunggulan bersaing adalah penciptaan suatu sisten yang memiliki keunggulan khas dibanding para pesaing. Tujuannya adalah menciptakan nilai bagi pelanggan secara efisien dan berkelanjutan. 
-  -> manajer operasi yang akan diminta mengimplementasikannya. 
-  -> tiga cara untuk mencapainya: perbedaan/diferensiasi, biaya rendah (*low cost*), dan cepat tanggap (*quick response*).
+Keunggulan bersaing adalah penciptaan suatu sistem yang memiliki keunggulan khas dibanding para pesaing. Tujuannya adalah menciptakan nilai bagi pelanggan secara efisien dan berkelanjutan.
+
+- manajer operasi yang akan diminta mengimplementasikannya.
+- tiga cara untuk mencapainya: perbedaan/diferensiasi, biaya rendah (*low cost*), dan cepat tanggap (*quick response*).
   
-### Perbedaan
+### Perbedaan (*differentiation*)
 
 - Differentiation is concerned with providing uniqueness: desain, purna jual, pengalaman.
 - Distinguishing the offerings of an organization in a way that the customer perceives as adding value.
 - Differentiation should be thought of as going beyond both physical characteristics and service attributes to encompass everything about the product or service that influences the value that the customers derive from it.
 
-### Low-cost leadership 
+### Biaya rendah (*Low-cost leadership*)
 
 - Entails achieving maximum value as defined by your customer melalui:
   - a facility that is effectively utilized, biaya overhead yang rendah, manajemen persediaan
 
-### Cepat Tanggap
+### Cepat Tanggap (*quick response*)
 
 - A set of values related to rapid, flexible, and reliable performance.
-  - Flexible response may be thought of as the ability to match changes in a marketplace where design innovations and volumes fluctuate substantially.
+  - Flexible response is the ability to match changes in a marketplace where design innovations and volumes fluctuate substantially.
   - The reliability of scheduling.
   - Quickness
