@@ -2,13 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bangtedy.github.io/mop/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/mop/tags/manajemen/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/mop/post/2022/04/02/manajemen-dan-strategi-operasional/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/mop/tags/operasional/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/mop/post/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/mop/tags/strategi/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/mop/tags/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bangtedy.github.io/mop/about/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/mop/categories/</loc>
-  </url><url>
-    <loc>https://bangtedy.github.io/mop/</loc>
-  </url><url>
-    <loc>https://bangtedy.github.io/mop/tags/</loc>
   </url>
 </urlset>
