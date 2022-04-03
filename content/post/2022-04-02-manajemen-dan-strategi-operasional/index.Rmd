@@ -151,20 +151,37 @@ An effective operations management effort must have a **mission** so it knows *w
 Keunggulan bersaing adalah penciptaan suatu sistem yang memiliki keunggulan khas dibanding para pesaing. Tujuannya adalah menciptakan nilai bagi pelanggan secara efisien dan berkelanjutan.
 
 - manajer operasi yang akan diminta mengimplementasikannya.
-- tiga cara untuk mencapainya: perbedaan/diferensiasi, biaya rendah (*low cost*), dan cepat tanggap (*quick response*).
+
+---
+
+### Memahami Lingkungan Bisnis: Porter’s five forces model
+
+```{r out.width="110%", echo=FALSE}
+knitr::include_graphics("5forces.png")
+```
+
+- Buyer power is high when customers have many choices and low when they have few choices. Typically, organizations try to limit buyers’ choices by offering services that make it difficult for customers to switch, which is essentially using a differentiation strategy.
+- Supplier power is high when customers have fewer options and low when customers have more options. 
+- The threat of customers choosing substitute products or services is high when many alternatives to an organization’s products and services are available. 
+- The threat of new entrants into the market-place is low when duplicating a company’s product or service is difficult. Organizations often use focus strategies to ensure that this threat remains low. 
+  - Sampai saat ini, mesin pencari Google sangat sulit ditandingi oleh mesin pencari lain. 
+
+---
+
+### Tiga Strategi Bersaing
   
-### Perbedaan (*differentiation*)
+**1. Perbedaan (differentiation)**
 
 - Differentiation is concerned with providing uniqueness: desain, purna jual, pengalaman.
 - Distinguishing the offerings of an organization in a way that the customer perceives as adding value.
 - Differentiation should be thought of as going beyond both physical characteristics and service attributes to encompass everything about the product or service that influences the value that the customers derive from it.
 
-### Biaya rendah (*Low-cost leadership*)
+**2. Biaya rendah (Low-cost leadership)**
 
 - Entails achieving maximum value as defined by your customer melalui:
   - a facility that is effectively utilized, biaya overhead yang rendah, manajemen persediaan
 
-### Cepat Tanggap (*quick response*)
+**3. Cepat Tanggap (quick response)**
 
 - A set of values related to rapid, flexible, and reliable performance.
   - Flexible response is the ability to match changes in a marketplace where design innovations and volumes fluctuate substantially.
