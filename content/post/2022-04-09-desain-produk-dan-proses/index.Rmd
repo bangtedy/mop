@@ -1,0 +1,181 @@
+---
+title: Desain Produk dan Proses
+author: Tedy Herlambang
+date: '2022-04-09'
+slug: desain-produk-dan-proses
+categories: [materi]
+tags:
+  - desain produk dan proses
+---
+
+```{r load_packages, echo=FALSE}
+library('fontawesome')
+```
+
+## `r fa("readme")` PENDAHULUAN
+
+Desain produk dan jasa dapat memberikan keunggulan bersaing bagi perusahaan. Modul 2 ini membahas desain produk dan layanan (KB1) dan desain proses produksi dan proses penyampaian layanan (KB2). Secara umum setelah mempelajari modul ini, mahasiswa diharapkan dapat menjelaskan kedua hal ini. Secara khusus, setelah mempelajari modul ini, mahasiswa diharapkan dapat:
+
+- [x] menjelaskan proses desain produk dan jasa,
+- [x] menjelaskan penyusunan ide mengenai produk dan jasa,
+- [x] menjelaskan pengertian dan proses penyusunan quality function deployment,
+- [x] menjelaskan pengertian dan proses desain jasa,
+- [x] menjelaskan desain proses operasional,
+- [x] menjelaskan peramalan permintaan yang mendukung desain proses produk dan layanan,
+- [x] menjelaskan teknologi yang mendukung proses produksi dan layanan,
+- [x] menjelaskan pengelolaan kapasitas proses produksi dan layanan,
+- [x] menjelaskan pengertian reliabilitas,
+- [x] menjelaskan alasan dan manfaat reliabilitas,
+- [x] menjelaskan metode-metode untuk memperbaiki reliabilitas selama desain produk atau layanan dan proses
+
+---
+
+## `r emo::ji('books')` KEGIATAN BELAJAR 1
+### DESAIN DAN PENGEMBANGAN PRODUK
+
+A. PROSES DESAIN PRODUK DAN JASA
+
+- Desain produk dimulai dari ide - uji kelayakan - uji prototipe - finalisasi - peluncuran.
+- Desain jasa juga sama tetapi biasanya melibatkan pelanggan. Contoh perusahaan jasa asuransi, perbankan, keuangan, transportasi, pendidikan, komunikasi.
+- Desain produk dan jasa proses kontinu karena:
+  + siklus ekonomi: resesi, booming
+  + sosial demografi: small family, suami-istri bekerja, dll
+  + teknologi: cell phone, internet, social media
+  + politik
+  + perubahan lain: praktik pemasaran, pemasok, global trade
+
+*Enam hal penting dalam desain produk*:
+
+- mengurangi kompleksitas produk
+- standardisasi komponen
+- perbaikan aspek fungsional
+- memperbaiki desain pekerjaan dan keamanan pekerjaan
+- memperbaiki kemudahan perbaikan
+- desain yang sehat dan kuat/konsisten
+
+> Tujuan keputusan produk adalah menerapkan strategi produk untuk memenuhi permintaan pasar dan mencapai keunggulan bersaing.
+
+B PENYUSUNAN IDE
+
+- Proses desain dimulai dengan memahami pelanggan
+- Ide pengembangan: pelanggan, pemasok, bagian R&D, pemasaran, pesaing dan teknologi
+- Pemetaan perseptual
+- Benchmarking: membandingkan produk terbaik dikelasnya
+- Reverse engineering: membongkar produk pesaing
+- Studi kelayakan: analisis pasar, analisis ekonomi, teknik dan strategi, spesifikasi kerja.
+- Prototyping dengan desain terintegrasi: desain bentuk, fungsional, dan produksi.
+  + desain bentuk: karakter fisik, warna, ukuran, berat, dll
+  + desain fungsional: keandalan, pemeliharaan, kegunaan
+  + desain produksi: bagaimana produk akan dihasilkan
+
+C. QUALITY FUNCTION DEPLOYMENT (QFD)
+
+- Pengerahan fungsi kualitas: proses menentukan kebutuhan pelanggan dan menerjemahkannya ke dalam atribut yang dipahami oleh bidang-bidang fungsional terkait.
+  + mengubah suara pelanggan menjadi persyaratan desain teknis
+
+Manfaat QFD:
+-  mengurangi biaya
+- meningkatkan pendapatan
+- mengurangi waktu produksi
+
+D. DESAIN JASA
+
+- Lebih komprehensif dibanding produk
+- Variasi proses jasa, sistem harus didesain secara hati-hati
+- Konsep jasa didasarkan pada pengalaman pelanggan sasaran dan bagaimana layanan berbeda dari yang lain serta dapat bersaing di pasar.
+- Paket jasa: item-item fisik, manfaat yang dinikmati dan manfaat psikologis
+  + item fisik: fasilitas, makanan, minuman, meja, taplak, ac, kebersihan
+  + manfaat kenikmatan: rasa, aroma, keramahan
+  + manfaat psikologis: kesehatan, kenyamanan, relaksasi
+
+## `r emo::ji('books')` KEGIATAN BELAJAR 2
+### DESAIN PROSES, KAPASITAS PRODUKSI DAN PELAYANAN
+
+A. DESAIN PROSES OPERASIONAL
+
+** Strategi Proses**:
+
+- mentransformasi sumberdaya menjadi produk dan jasa yang memenuhi kebutuhan pelanggan, spesifikasi sesuai biaya dan keterbatasan manajerial perusahaan.
+- proses produksi atau proses penyampaian layanan mempengaruhi efisiensi dan fleksibilitas proses produksi.
+
+** Empat strategi proses**
+
+- fokus proses: variasi banyak dan jumlah sedikit, biaya variabel tinggi, biaya tetap rendah
+- fokus produk: jumlah besar, variasi sedikit, biaya variabel rendah, biaya tetap tinggi.
+- fokus pengulangan: berada antara fokus proses dan produk
+- kustomisasi massal: jumlah dan variasi banyak
+
+B. DESAIN KAPASITAS
+
+- Kapasitas: banyaknya output yang dapat dicapai oleh sistem dalam periode waktu tertentu
+- Ukuran keberhasil manajemen operasinal: keseimbangan antara kualitas dan manajemen sumberdaya
+- Empat pilihan pengendalian operasional:
+  + mengubah kapasitas
+  + menangani persediaan
+  + mengharap pelanggan menunggu
+  + mempengaruhi permintaan dengan cara lain
+
+C. PERAMALAN PERMINTAAN
+
+- Titik awal perencanaan: berapa barang atau jasa yang dapat dijual, harga, bahan baku, jam kerja, dll
+- Beberapa teknik peramalan:
+  + pertimbangan ahli (expert judgment), jangka panjang
+  + penghitungan (counting)
+  + perjalanan waktu (time series), jangka pendek
+  + sebab akibat (causal), jangka panjang-menengah
+  
+D. TEKNOLOGI DALAM PROSES PRODUKSI
+
+- Pertimbangan pemilihan teknologi: kapasitas, ukuran, pemeliharaan, keunggulan bersaing
+- Fleksibilitas: menanggapi perubahan waktu, biaya dan keinginan pelanggan
+- Beberapa teknologi: robot, CNC, AIS, AGV
+
+E. PENGELOLAAN KAPASITAS
+
+- Perencanaan kapasitas sangat strategis:
+  + kekurangan kapasitas dapat kehilangan pelanggan karena layanan lambat dan kalah bersaing
+  + kelebihan kapasitas inefisiensi, mengurangi karyawan, menurunkan harga
+- Strategi bersaing jangka panjang dengan menentukan kapasitas penggunaan sumberdaya, fasilitas peralatan, karyawan secara intensif.
+- Antisipasi kelebihan/kekurangan kapasitas:
+ + sistem janjian: dokter, pengacara
+ + reservasi: hotel, restoran
+ + first come first serve: supermarket, kantor pos, pom bensin, dll
+
+
+## `r emo::ji('books')` KEGIATAN BELAJAR 3
+### RELIABILITAS
+
+A. PENGERTIAN RELIABILITAS
+
+- Kemampuan produk untuk berfungsi pada periode waktu tertentu
+  + probabilitas produk berfungsi
+  + keberhasilan kinerja produk
+  + lingkungan peralatan harus beroperasi
+  + waktu operasi
+- Produk reliabel/andal: dapat berfungsi untuk periode waktu yang lama.
+- Berkaitan dengan teknik perancangan, teknik kualitas, teknik pembuatan dll
+
+B. ALASAN DAN MANFAAT RELIABILITAS
+
+- optimalisasi periode waktu kerusakan
+- optimalisasi periode waktu pemberian jaminan dan biaya jaminan
+- optimalisasi waktu pencegahan kerusakan komponen
+- perkiraan kebutuhan bahan baku.
+- informasi lebih baik tentang kerusakan komponen
+
+C. METODE UNTUK MEMPERBAIKI RELIABILITAS SELAMA DESAIN
+
+- meninjau kebutuhan pemakai, fungsi yang tidak bermanfaat dapat dihilangkan
+- pilihan antara reliabilitas dan kinerja fungsional, berat
+- meninjau pemilihan bahan baku yang belum teruji
+- pengendalian lingkungan operasi yang memiliki kegagalan rendah
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_16 a2a_default_style"; data-a2a-url="https://bangtedy.github.io/mop" data-a2a-title="Desain Produk dan Proses">
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->

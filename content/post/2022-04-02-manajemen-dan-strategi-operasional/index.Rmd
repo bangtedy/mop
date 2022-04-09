@@ -3,14 +3,18 @@ title: Manajemen dan Strategi Operasional
 author: Tedy Herlambang
 date: '2022-04-02'
 slug: manajemen-dan-strategi-operasional
-categories: []
+categories: [materi]
 tags:
   - manajemen
   - strategi
   - operasional
 ---
 
-### Capaian Pembelajaran
+```{r load_packages, echo=FALSE}
+library('fontawesome')
+```
+
+### `r fa("readme")` Capaian Pembelajaran
 
 Secara Umum, setelah mempelajari Modul ini mahasiswa diharapkan dapat menjelaskan manajemen operasional dan strategi operasional. Secara khusus, setelah mempelajari Modul ini mahasiswa diharapkan mampu:
 
@@ -26,7 +30,7 @@ Secara Umum, setelah mempelajari Modul ini mahasiswa diharapkan dapat menjelaska
 10. menjelaskan cara mencapai keunggulan bersaing melalui strategi operasional
 11. menjelaskan pengembangan dan implementasi strategi operasional.
 
-## KEGIATAN BELAJAR 1
+## `r emo::ji('books')` KEGIATAN BELAJAR 1
 
 ### A. Pengertian Manajemen Operasional
 
@@ -187,3 +191,13 @@ knitr::include_graphics("5forces.png")
   - Flexible response is the ability to match changes in a marketplace where design innovations and volumes fluctuate substantially.
   - The reliability of scheduling.
   - Quickness
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_16 a2a_default_style"; data-a2a-url="https://bangtedy.github.io/mop" data-a2a-title="Manajemen dan Strategi Operasional">
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
