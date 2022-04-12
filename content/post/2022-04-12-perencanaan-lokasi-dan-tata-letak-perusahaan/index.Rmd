@@ -1,0 +1,46 @@
+---
+title: Perencanaan Lokasi dan Tata Letak Perusahaan
+author: Tedy Herlambang
+date: '2022-04-12'
+slug: perencanaan-lokasi-dan-tata-letak-perusahaan
+categories:
+  - materi
+tags:
+  - perencanaan lokasi
+  - tata letak perusahaan
+---
+
+
+```{r load_packages, echo=FALSE}
+library('fontawesome')
+```
+
+## `r fa("readme")` PENDAHULUAN
+
+Keputusan penentuan lokasi untuk menghasilkan produk merupakan aspek kunci dalam membuat keputusan strategis dan logistik dalam perusahaan manufaktur. Pemilihan lokasi yang tepat akan mendorong para pelanggan datang untuk mendapatkan produk atau layanan dan memudahkan proses produksi. Selain lokasi yang tepat, tata letak juga merupakan keputusan kunci yang menentukan efisiensi operasi jangka panjang dan mempunyai sejumlah implikasi strategis.
+
+Secara umum, setelah mempelajari modul ini, Mahasiswa diharapkan dapat menjelaskan perencanaan dan pengelolaan lokasi perusahaan dan tata letak perusahaan. Secara khusus, setelah mempelajari modul ini, mahasiswa diharapkan mampu:
+
+- [x] menjelaskan berbagai faktor yang mempengaruhi penentuan lokasi perusahaan,
+- [x] menjelaskan metode-metode penentuan lokasi perusahaan,
+- [x] menjelaskan kriteria-kriteria tata letak operasional perusahaan,
+- [x] menjelaskan jenis dan cara penentuan tata letak operasional perusahaan.
+
+---
+
+## `r emo::ji('books')` KEGIATAN BELAJAR 1
+### Model Penentuan Lokasi Perusahaan
+
+A. FAKTOR YANG MEMPENGARUHI PENENTUAN LOKASI
+
+B. METODE PENENTUAN LOKASI
+
+---
+
+## `r emo::ji('books')` KEGIATAN BELAJAR 2
+### Model Penentuan Lokasi Perusahaan
+
+A. KRITERIAN KINERJA TATA LETAK OPERASIONAL
+
+B. JENIS TATA LETAK OPERASIONAL
+
