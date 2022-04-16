@@ -33,14 +33,106 @@ Secara umum, setelah mempelajari modul ini, Mahasiswa diharapkan dapat menjelask
 
 A. FAKTOR YANG MEMPENGARUHI PENENTUAN LOKASI
 
+**Faktor yang dipertimbangkan dalam pemilihan lokasi perusahaan manufaktur (Krajewski, 2007)**
+
+1. Iklim kerja yang menyenangkan
+2. Kedekatan dengan pasar
+3. Kualitas kehidupan
+4. Kedekatan dengan pemasok dan sumberdaya
+5. Kedekatan dengan fasilitas perusahaan induk
+6. Biaya penggunaan, pajak, dan kepemilikan atau hak milik.
+
+**Faktor yang dipertimbangkan dalam pemilihan lokasi perusahaan Jasa**
+
+1. Kedekatan dengan pelanggan
+2. Biaya transportasi dan kedekatan dengan pasar
+3. Lokasi pesaing
+4. Faktor-faktor khusus lokasi, misal kemacetan lalu lintas
+
+
 B. METODE PENENTUAN LOKASI
+
+1. Metode penilaian faktor
+2. Metode Analisis titik impas (*Break Even Analysis*)
+3. Metode Pusat Gravitasi
+4. Metode Muatan-Jarak
+5. Metode Transportasi
+6. Metode Delphi
+
+
 
 ---
 
 ## `r emo::ji('books')` KEGIATAN BELAJAR 2
 ### Model Penentuan Lokasi Perusahaan
 
-A. KRITERIAN KINERJA TATA LETAK OPERASIONAL
+**A. KRITERIA KINERJA TATA LETAK OPERASIONAL**
 
-B. JENIS TATA LETAK OPERASIONAL
+**Desain Tata Letak**
+Desain tata letak mempertimbangkan:
+
+1. Penggunaan orang, ruang dan peralatan dengan lebih baik
+2. Dapat memperbaiki aliran informasi, orang dan material
+3. Dapat meningkatkan moral karyawan, dan meningkatkan keamanan dan kondisi kerja.
+4. Dapat memperbaiki kinerja dengan pelanggan
+5. Fleksibel (apapun tata letak yang ada pasti memerlukan perubahan)
+
+**B. JENIS TATA LETAK OPERASIONAL**
+
+Empat tipe tata letak:
+
+1. Tata Letak aliran fleksibel
+2. Tata letak aliran lini
+3. Tata letak campuran
+4. Tata letak posisi tetap
+
+---
+
+**Tata Letak Proses**
+
+- Tata letak proses yang digunakan dalam perusahaan jasa memerlukan ruang yang memberikan kemudahan dan kenyamanan bagi pelanggan
+- Tata letak proses dicirikan dengan operasi yang sebentar-sebentar, toko jasa, sekumpulan pekerjaan, atau sekumpulan produksi yang melayani kebutuhan yang berbeda dari orang-orang yang berbeda.
+
+---
+
+**Tata Letak Kantor**
+
+- Tata letak kantor menghendaki pengelompokan karyawan, peralatan dan ruang untuk memberikan kenyamanan, keamanan dan perpindahan lokasi.
+- Beberapa hal yang menjadi pertimbangan dalam tata letak kantor yaitu kedekatan, privasi atau keluasaan pribadi, dan beberapa macam pilihan tata letak kantor.
+
+---
+
+**Tata Letak Eceran**
+
+Tiga elemen yang perlu diperhatikan:
+1. Kondisi yang berkenaan dengan lingkungan
+2. Fungsionalitas dan tata letak ruang
+3. Tanda, simbol dan artefak yang merupakan karakteristik desain yang signifikan dengan kondisi sosial.
+
+---
+
+**Tata Letak Gudang**
+
+- Biaya tata letak gudang mencakup peralatan, orang, material, supervisi, asuransi dan depresiasi.
+- Keunggulan tata letak berorientasi pada produk dan perakitan: 
+  + biaya variabel per unit rendah,
+  + biaya penanganan bahan baku rendah,
+  + pengurangan produk dalam proses,
+  + memudahkan pelatihan dan supervisi,
+  + mempercepat persiapan proses.
+
+<br />
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_16 a2a_default_style"; data-a2a-url="https://bangtedy.github.io/mop" data-a2a-title="Perencanaan Lokasi dan Tata Letak Perusahaan">
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
+
 

@@ -93,12 +93,12 @@ D. DESAIN JASA
 
 A. DESAIN PROSES OPERASIONAL
 
-** Strategi Proses**:
+**Strategi Proses**:
 
 - mentransformasi sumberdaya menjadi produk dan jasa yang memenuhi kebutuhan pelanggan, spesifikasi sesuai biaya dan keterbatasan manajerial perusahaan.
 - proses produksi atau proses penyampaian layanan mempengaruhi efisiensi dan fleksibilitas proses produksi.
 
-** Empat strategi proses**
+**Empat strategi proses**
 
 - fokus proses: variasi banyak dan jumlah sedikit, biaya variabel tinggi, biaya tetap rendah
 - fokus produk: jumlah besar, variasi sedikit, biaya variabel rendah, biaya tetap tinggi.
@@ -169,6 +169,8 @@ C. METODE UNTUK MEMPERBAIKI RELIABILITAS SELAMA DESAIN
 - pilihan antara reliabilitas dan kinerja fungsional, berat
 - meninjau pemilihan bahan baku yang belum teruji
 - pengendalian lingkungan operasi yang memiliki kegagalan rendah
+
+<br />
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_16 a2a_default_style"; data-a2a-url="https://bangtedy.github.io/mop" data-a2a-title="Desain Produk dan Proses">
