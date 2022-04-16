@@ -105,6 +105,7 @@ Empat tipe tata letak:
 **Tata Letak Eceran**
 
 Tiga elemen yang perlu diperhatikan:
+
 1. Kondisi yang berkenaan dengan lingkungan
 2. Fungsionalitas dan tata letak ruang
 3. Tanda, simbol dan artefak yang merupakan karakteristik desain yang signifikan dengan kondisi sosial.
