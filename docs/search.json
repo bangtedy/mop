@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Manajemen Operasi",
+      "description": "Kode Mata Kuliah/SKS: EKMA4215/3 SKS",
+      "author": [],
+      "contents": "\r\nTutor: Tedy Herlambang\r\nSekilas Tentang MOP\r\nManajemen Operasi ini mempelajari masalah operasi dalam organisasi\r\natau perusahaan yang mencakup pengambilan keputusan jangka panjang,\r\nmenengah dan jangka pendek yang harus dilakukan oleh manajer\r\noperasional.\r\nJenis pengambilan keputusan yang dibahas seperti pengambilan\r\nkeputusan untuk desain produk, proses, dan kapasitas; lokasi perusahaan\r\ndan tata letak perusahaan; pengelolaan kualitas dan persediaan;\r\nperencanaan dan penyusunan penjadwalan proses; pengelolaan sumber daya\r\nmanusia dalam kegiatan operasional; pengelolaan rantai pasokan\r\nperusahaan dan manajemen proyek.\r\nSelain itu juga akan dibahas berbagai teknik yang membantu manajer\r\noperasional dalam mengambil keputusan di bidang operasional.\r\nBuku Rujukan Utama:\r\nAriani, Dorothea Wahyu. 2017. Manajemen Operasi. Penerbit\r\nUniversitas Terbuka\r\nBuku Rujukan Tambahan:\r\nHeizer, Jay, Barry Render, and Chuck Munson. 2020. Operations\r\nManagement Sustainability and Supply Chain Management. 13th edition.\r\nPearson.\r\nSlack, Nigel and Alistair Brandon-Jones 2019. Operations management.\r\nNinth edition. Pearson.\r\nStevenson, William J., 2021. Operations management, 14th edition.\r\nMcGraw Hill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-19T04:57:44+07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Materi",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-19T04:57:46+07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

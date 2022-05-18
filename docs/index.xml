@@ -1,75 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Beranda on Manajemen Operasi</title>
-    <link>https://bangtedy.github.io/mop/</link>
-    <description>Recent content in Beranda on Manajemen Operasi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/mop/index.xml" rel="self" type="application/rss+xml" />
+    <title>Manajemen Operasi</title>
+    <link>https://bangtedy.github.io/etan</link>
+    <atom:link href="https://bangtedy.github.io/etan/index.xml" rel="self" type="application/rss+xml"/>
+    <description>EKMA4215
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Manajemen Persediaan</title>
-      <link>https://bangtedy.github.io/mop/post/2022/05/15/manajemen-persediaan/</link>
+      <dc:creator>Tedy Herlambang</dc:creator>
+      <link>https://bangtedy.github.io/etan/posts/2022-05-19-manajemen-persediaan</link>
+      <description>Modul 5</description>
+      <guid>https://bangtedy.github.io/etan/posts/2022-05-19-manajemen-persediaan</guid>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/mop/post/2022/05/15/manajemen-persediaan/</guid>
-      <description>PENDAHULUANTujuan pengelolaan persediaan adalah memenuhi permintaan pelanggan dan mencapai keefektifan biaya. Modul ini membahas permasalahan manajemen persediaan tradisional dan mendiskusikan beberapa model yang lebih populer untuk membuat keputusan persediaan yang efektif dalam biaya.
-Secara umum, setelah mempelajari modul ini, mahasiswa diharapkan dapat menjelaskan manajemen model persediaan independen dan manajemen model persediaan dependen. Secara khusus, Anda diharapkan mampu:
-✅ menjelaskan pengertian dan manfaat persediaan dalam perusahaan manufaktur dan layanan✅ menjelaskan model-model persediaan dengan permintaan independen.</description>
     </item>
-    
     <item>
       <title>Manajemen Kualitas</title>
-      <link>https://bangtedy.github.io/mop/post/2022/04/22/manajemen-kualitas/</link>
+      <dc:creator>Tedy Herlambang</dc:creator>
+      <link>https://bangtedy.github.io/etan/posts/2022-05-19-manajemen-kualitas</link>
+      <description>Modul 4</description>
+      <guid>https://bangtedy.github.io/etan/posts/2022-05-19-manajemen-kualitas</guid>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/mop/post/2022/04/22/manajemen-kualitas/</guid>
-      <description>PENDAHULUANBeauty is in the eye of the beholder. Kualitas merupakan penilaian yang bersifat subyektif dari setiap orang. Kualitas secara singkat dapat diartikan penilaian terhadap apa yang didapatkan dari apa yang telah dibayarkan. Dalam modul 4 ini, Anda akan mempelajari bagaimana mengelola kualitas produk, layanan, proses produksi dan proses layanan. Setelah mempelajari modul ini Anda diharapkan mampu:
-menjelaskan konsep kualitas dan manajemen kualitasmenjelaskan alat dan teknik perbaikan kualitasmenjelaskan pengertian, manfaat dan jenis standar internasionalmenjelaskan konsep total quality managementmenjelaskan pengertian pengendalian kualitas statistikmenjelaskan teknik pengendalian kualitas proses statistik untuk data variabelmenjelaskan teknik pengendalian kualitas proses statistik untuk data atributmenjelaskan pengertian dan cara melakukan analisis kemampuan proses📚 KEGIATAN BELAJAR 1: Manajemen Kualitas dan Standar InternasionalA.</description>
     </item>
-    
     <item>
       <title>Perencanaan Lokasi dan Tata Letak Perusahaan</title>
-      <link>https://bangtedy.github.io/mop/post/2022/04/12/perencanaan-lokasi-dan-tata-letak-perusahaan/</link>
+      <dc:creator>Tedy Herlambang</dc:creator>
+      <link>https://bangtedy.github.io/etan/posts/2022-05-19-perencanaan-lokasi-dan-tata-letak-perusahaan</link>
+      <description>Modul 3</description>
+      <guid>https://bangtedy.github.io/etan/posts/2022-05-19-perencanaan-lokasi-dan-tata-letak-perusahaan</guid>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/mop/post/2022/04/12/perencanaan-lokasi-dan-tata-letak-perusahaan/</guid>
-      <description>PENDAHULUANKeputusan penentuan lokasi untuk menghasilkan produk merupakan aspek kunci dalam membuat keputusan strategis dan logistik dalam perusahaan manufaktur. Pemilihan lokasi yang tepat akan mendorong para pelanggan datang untuk mendapatkan produk atau layanan dan memudahkan proses produksi. Selain lokasi yang tepat, tata letak juga merupakan keputusan kunci yang menentukan efisiensi operasi jangka panjang dan mempunyai sejumlah implikasi strategis.
-Secara umum, setelah mempelajari modul ini, Mahasiswa diharapkan dapat menjelaskan perencanaan dan pengelolaan lokasi perusahaan dan tata letak perusahaan.</description>
     </item>
-    
     <item>
       <title>Desain Produk dan Proses</title>
-      <link>https://bangtedy.github.io/mop/post/2022/04/09/desain-produk-dan-proses/</link>
+      <dc:creator>Tedy Herlambang</dc:creator>
+      <link>https://bangtedy.github.io/etan/posts/2022-05-19-desain-produk-dan-proses</link>
+      <description>Modul 2</description>
+      <guid>https://bangtedy.github.io/etan/posts/2022-05-19-desain-produk-dan-proses</guid>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/mop/post/2022/04/09/desain-produk-dan-proses/</guid>
-      <description>PENDAHULUANDesain produk dan jasa dapat memberikan keunggulan bersaing bagi perusahaan. Modul 2 ini membahas desain produk dan layanan (KB1) dan desain proses produksi dan proses penyampaian layanan (KB2). Secara umum setelah mempelajari modul ini, mahasiswa diharapkan dapat menjelaskan kedua hal ini. Secara khusus, setelah mempelajari modul ini, mahasiswa diharapkan dapat:
-menjelaskan proses desain produk dan jasa,menjelaskan penyusunan ide mengenai produk dan jasa,menjelaskan pengertian dan proses penyusunan quality function deployment,menjelaskan pengertian dan proses desain jasa,menjelaskan desain proses operasional,menjelaskan peramalan permintaan yang mendukung desain proses produk dan layanan,menjelaskan teknologi yang mendukung proses produksi dan layanan,menjelaskan pengelolaan kapasitas proses produksi dan layanan,menjelaskan pengertian reliabilitas,menjelaskan alasan dan manfaat reliabilitas,menjelaskan metode-metode untuk memperbaiki reliabilitas selama desain produk atau layanan dan proses📚 KEGIATAN BELAJAR 1DESAIN DAN PENGEMBANGAN PRODUKA.</description>
     </item>
-    
     <item>
       <title>Manajemen dan Strategi Operasional</title>
-      <link>https://bangtedy.github.io/mop/post/2022/04/02/manajemen-dan-strategi-operasional/</link>
+      <dc:creator>Tedy Herlambang</dc:creator>
+      <link>https://bangtedy.github.io/etan/posts/2022-05-19-manajemen-dan-strategi-operasional</link>
+      <description>Modul 1</description>
+      <guid>https://bangtedy.github.io/etan/posts/2022-05-19-manajemen-dan-strategi-operasional</guid>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/mop/post/2022/04/02/manajemen-dan-strategi-operasional/</guid>
-      <description>Capaian PembelajaranSecara Umum, setelah mempelajari Modul ini mahasiswa diharapkan dapat menjelaskan manajemen operasional dan strategi operasional. Secara khusus, setelah mempelajari Modul ini mahasiswa diharapkan mampu:
-menjelaskan pengertian manajemen operasionalmenjelaskan fungsi-fungsi operasionalmenjelaskan perbedaan antara produk dan jasamenjelaskan sejarah perkembangan manajemen operasionalmenjelaskan tren atau perkembangan dalam manajemen operasional,menjelaskan keputusan yang diambil oleh manajer operasional,menjelaskan pengertian strategi operasionalmenjelaskan strategi operasional dan kegiatan operasionalmenjelaskan penyusunan strategi operasionalmenjelaskan cara mencapai keunggulan bersaing melalui strategi operasionalmenjelaskan pengembangan dan implementasi strategi operasional.</description>
+      <media:content url="https://bangtedy.github.io/etan/posts/2022-05-19-manajemen-dan-strategi-operasional/input-output-transformation.png" medium="image" type="image/png" width="702" height="376"/>
     </item>
-    
-    <item>
-      <title>Sekilas Tentang Manajemen Operasi</title>
-      <link>https://bangtedy.github.io/mop/about/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/mop/about/</guid>
-      <description>Nama Mata Kuliah: Manajemen Operasi
-Kode Mata Kuliah/SKS: EKMA4215/3 SKS
-Tutor: Tedy Herlambang
-Sekilas Tentang MOP Manajemen Operasi ini mempelajari masalah operasi dalam organisasi atau perusahaan yang mencakup pengambilan keputusan jangka panjang, menengah dan jangka pendek yang harus dilakukan oleh manajer operasional.
-Jenis pengambilan keputusan yang dibahas seperti pengambilan keputusan untuk desain produk, proses, dan kapasitas; lokasi perusahaan dan tata letak perusahaan; pengelolaan kualitas dan persediaan; perencanaan dan penyusunan penjadwalan proses; pengelolaan sumber daya manusia dalam kegiatan operasional; pengelolaan rantai pasokan perusahaan dan manajemen proyek.</description>
-    </item>
-    
   </channel>
 </rss>
