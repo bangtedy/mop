@@ -48,25 +48,77 @@ Secara khusus, setelah mempelajari modul ini, mahasiswa diharapkan mampu menjela
 
 ### DESAIN PEKERJAAN
 
-Beberapa Atribut Penting dalam Desain Pekerjaan:
+- Job design specifies the tasks that constitute a job for an individual or a group. 
+- Five components of job design: 
+  +  job specialization, 
+  +  job expansion, 
+  +  psychological components, 
+  +  self-directed teams, and 
+  +  motivation and incentive systems.
 
-- Tingkat pengulangan yang tepat
-- Tingkat perhatian dan penyerapan yang tepat
-- Tanggung jawab karyawan untuk mengambil keputusan dan kebijakan
-- Pengendalian karyawan terhadap pekerjaannya
-- Sasaran dan umpan balik pencapaian
-- Kontribusi terhadap produk atau jasa yang berguna
-- Kesempatan menjalin hubungan dan pertemanan personal
-- Beberapa pengaruh melalui cara kerha yang dilaksanakan dalam kelompok
-- Penggunaan keahlian
+- Beberapa Atribut Penting dalam Desain Pekerjaan:
 
-### Elemen Desain Pekerjaan
+  + Tingkat pengulangan yang tepat
+  + Tingkat perhatian dan penyerapan yang tepat
+  + Tanggung jawab karyawan untuk mengambil keputusan dan kebijakan
+  + Pengendalian karyawan terhadap pekerjaannya
+  + Sasaran dan umpan balik pencapaian
+  + Kontribusi terhadap produk atau jasa yang berguna
+  + Kesempatan menjalin hubungan dan pertemanan personal
+  + Beberapa pengaruh melalui cara kerha yang dilaksanakan dalam kelompok
+  + Penggunaan keahlian
 
+- Job enlargement: the grouping of a variety of tasks
+about the same skill level; horizon-
+tal enlargement.
+
+- Job rotation: a system in which an employee is
+moved from one specialized job to
+another.
+
+- Job enrichment: a method of giving an employee
+more responsibility that includes some of the planning and control
+necessary for job accomplishment; vertical expansion.
+
+- Employee empowerment: enlarging employee jobs so that
+the added responsibility and
+authority are moved to the lowest
+level possible.
+
+![](job-enlarge-enrich.png)
+`Sumber: Heizer, et.al (2020)`
 
 
 ## KEGIATAN BELAJAR 2: KURVA PEMBELAJARAN DAN PENGUKURAN KERJA
 
+- Learning curves are based on the premise that people and organizations become better at
+their tasks as the tasks are repeated.
+- A learning curve graph (see Figure) displays cost (or time) per unit versus the cumulative number of units produced. 
+- From it we see that the time needed to produce a unit decreases, usually following a negative exponential curve (part a), as the person or company produces more units.
+  + It takes less time to complete each additional unit a firm produces. 
+  + However, the time savings in completing each subsequent unit also decreases.
+  
+  ![](learning-curve.png)
+  `Sumber: Heizer, et.al (2020)`
+  
+  Prinsip ini ditunjukkan dengan rumus:
+  $T * L^n = Time\ required\ for\ the\ nth\ unit$
+  
+  Dimana, 
+  
+  T = unit cost or unit time of the first unit
+  
+  L = learning curve rate
+  
+  n = number of times T is doubled
+
 ### KURVA PEMBELAJARAN DALAM LAYANAN DAN MANUFAKTUR
 
+- Different organizations, different products have different learning curves. 
+- The rate of learning varies depending on the quality of management and the potential of the process and product. 
+- Any change in process, product, or personnel disrupts the learning curve.
+- Thus,a learning curve does not seem smooth, continuing and permanent.
 
+![](example-lc-effect.png)
+`Sumber: Heizer, et.al (2020)`
 
