@@ -1,0 +1,72 @@
+---
+title: Sumber Daya Manusia, Desain Kerja dan Pengukuran Kerja
+description: |
+  Modul 6
+author: 
+  - name: Tedy Herlambang
+    url: https://bangtedy.github.io
+    orcid_id: 0000-0002-7296-4357
+date: '2022-05-19'
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## PENDAHULUAN
+
+Beberapa ahli berpandangan bahwa sumber daya manusia lebih penting dibandingkan sumber daya lain dalam memenangkan persaingan. Kemajuan teknologi informasi dan komunikasi yang membawa perubahan lingkungan kerja membutuhkan karyawan yang ahli secara teknis dan dapat berkomunikasi secara efektif dengan pelanggan. Produktivitas, efisiensi dan efektivitas sebagai salah satu tujuan perusahaan banyak terkait dengan sumber daya manusia. Oleh karena itu penting bagi perusahaan untuk melakukan perencanaan dan pengelolaan SDMnya dengan baik.
+
+Pada modul ini, Anda akan mempelajari pengelolaan SDM, bagaimana membuat desain kerja dan bagaimana melakukan pengukuran kinerja. Secara umum setelah mempelajari modul ini, mahasiswa diharapkan dapat menjelaskan desain kerja dan pengukuran kinerja karyawan serta menjelaskan penggunaan kurva pembelajaran yang mendukung desain kerja dan pengukuran kinerja.
+
+Secara khusus, setelah mempelajari modul ini, mahasiswa diharapkan mampu menjelaskan:
+
+- [x] pengertian manajemen sumber daya manusia dalam organisasi;
+- [x] praktik pengelolaan SDM;
+- [x] desain kerja;
+- [x] desain kerja dan cara memotivasi karyawan untuk bekerja;
+- [x] kurva pembelajaran dalam layanan dan manufaktur;
+- [x] beberapa pendekatan dalam kurva pembelajaran;
+- [x] pengukuran waktu kerja karyawan;
+- [x] ergonomi dan lingkungan kerja karyawan.
+
+## KEGIATAN BELAJAR 1: STRATEGI PENGELOLAAN SDM OPERASIONAL
+
+### MANAJEMEN SDM (MSDM)
+
+- Semua kegiatan dalam organisasi yang mencakup penggabungan dan penggunaan SDM.
+- MSDM yang baik harus memenuhi hak dan kewajiban karyawan dan permintaan masyarakat
+- Departemen MSDM bertanggung jawab dalam hal-hal teknis dan manajerial yang berhubungan dengan SDM.
+- Pengembangan sistem SDM merupakan *invisble asset* yang melekat dalam sistem operasi organisasi.
+- Praktik pengelolaan SDM meliputi perencanaan karyawan, penyusunan jadwal kerja, desain pekerjaan, penentuan waktu kerja serta evaluasi kinerja karyawan
+
+<br />
+
+### DESAIN PEKERJAAN
+
+Beberapa Atribut Penting dalam Desain Pekerjaan:
+
+- Tingkat pengulangan yang tepat
+- Tingkat perhatian dan penyerapan yang tepat
+- Tanggung jawab karyawan untuk mengambil keputusan dan kebijakan
+- Pengendalian karyawan terhadap pekerjaannya
+- Sasaran dan umpan balik pencapaian
+- Kontribusi terhadap produk atau jasa yang berguna
+- Kesempatan menjalin hubungan dan pertemanan personal
+- Beberapa pengaruh melalui cara kerha yang dilaksanakan dalam kelompok
+- Penggunaan keahlian
+
+### Elemen Desain Pekerjaan
+
+
+
+## KEGIATAN BELAJAR 2: KURVA PEMBELAJARAN DAN PENGUKURAN KERJA
+
+### KURVA PEMBELAJARAN DALAM LAYANAN DAN MANUFAKTUR
+
+
+
