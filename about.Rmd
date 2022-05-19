@@ -18,11 +18,28 @@ Jenis pengambilan keputusan yang dibahas seperti pengambilan keputusan untuk des
 
 Selain itu juga akan dibahas berbagai teknik yang membantu manajer operasional dalam mengambil keputusan di bidang operasional.
 
-**Buku Rujukan Utama**:
+### Materi Tutorial
+
+Tutorial dilakukan sebanyak 8 kali mencakup 9 modul. Topik-topik yang akan dibahas sebagai berikut:
+
+:::obj
+
+* Minggu 1 Manajemen dan Strategi Operasional
+* Minggu 2 Desain Produk dan Proses
+* Minggu 3 Perencanaan Lokasi dan Tata Letak Perusahaan
+* Minggu 4 Manajemen Kualitas
+* Minggu 5 Manajemen Persediaan
+* Minggu 6 Sumber Daya Manusia, Desain Kerja dan Pengukuran Kerja
+* Minggu 7 Perencanaan dan Penjadwalan Produksi
+* Minggu 8 Manajemen Rantai Pasokan dan Proyek
+
+:::
+
+### Buku Rujukan Utama:
 
 1. Ariani, Dorothea Wahyu. 2017. Manajemen Operasi. Penerbit Universitas Terbuka
 
-**Buku Rujukan Tambahan**: 
+### Buku Rujukan Tambahan: 
 
 1. Heizer, Jay, Barry Render, and Chuck Munson. 2020. Operations Management Sustainability and Supply Chain Management. 13th edition. Pearson.
 2. Slack, Nigel and Alistair Brandon-Jones 2019. Operations management. Ninth edition. Pearson.
