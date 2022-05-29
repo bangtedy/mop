@@ -1,7 +1,7 @@
 ---
 title: Sumber Daya Manusia, Desain Kerja dan Pengukuran Kerja
 description: |
-  Modul 6
+  Modul 6/EKMA4215
 author: 
   - name: Tedy Herlambang
     url: https://bangtedy.github.io
@@ -14,7 +14,9 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(
+  echo = FALSE,
+  R.options=list(width=60))
 ```
 
 ## PENDAHULUAN
@@ -98,7 +100,11 @@ their tasks as the tasks are repeated.
   + It takes less time to complete each additional unit a firm produces. 
   + However, the time savings in completing each subsequent unit also decreases.
   
-  ![](learning-curve.png)
+  ```{r, out.width="80%"}
+  knitr::include_graphics("learning-curve.png")
+ 
+  ```
+  
   `Sumber: Heizer, et.al (2020)`
   
   Prinsip ini ditunjukkan dengan rumus:
