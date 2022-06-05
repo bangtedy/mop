@@ -47,7 +47,9 @@ Secara khusus, setelah mempelajari modul ini, mahasiswa diharapkan mampu:
 5. menjelaskan PERT/CPM
 6. menjelaskan penjadwalan proyek dengan PERT dan CPM
 
-## Modul 8 KB 1: Manajemen Rantai Pasokan (*Supply Chain Management*)
+## Modul 8: Manajemen Rantai Pasokan (*Supply Chain Management*)
+
+### KB 1 Manajemen Rantai Pasokan
 
 - Supply chain management describes the coordination of all supply chain activities, starting with raw materials and ending with a satisfied customer. 
   + suppliers; manufacturers and/or service providers; and distributors, wholesalers, and/or retailers who deliver the product and/or service to the final customer.
@@ -107,7 +109,7 @@ include true partners, collaborators, or simply able suppliers and subcontractor
 
 ### Mengukur Kinerja Rantai Pasokan
 
-## Modul 8 KB2: Sistem Operasional yang Ramping (*Lean Operation*)
+### KB2: Sistem Operasional yang Ramping (*Lean Operation*)
 
 - Lean operations supply the customer with exactly what the customer wants when the customer wants it, without waste, through continuous improvement. 
 - Lean operations are driven by workflow initiated by the “pull” of the customer’s order. 
@@ -127,29 +129,97 @@ include true partners, collaborators, or simply able suppliers and subcontractor
   +	Overprocessing: Work performed on the product that adds no value is waste.
   +	Defective product: Returns, warranty claims, rework, and scrap are wastes.
 
-### 5Ss- a Lean production checklist
+### 5S- a Lean production checklist
 
 - Sort: Keep what is needed and remove everything else from the work area; when 
 in doubt, throw it out. Identify nonvalue items and remove them. Getting rid of unneeded items makes space available and usually improves workflow.
 - Simplify: Arrange and use methods analysis tools to improve workflow and reduce wasted motion. Consider long-run and short-run ergonomic issues. Label and display for easy use only what is needed in the immediate work area. 
 - Shine: Clean daily; eliminate all forms of dirt, contamination, and clutter from the work area.
-- Standardize: Remove variations from the process by developing standard operating procedures and check-lists; good standards make the abnormal obvious. Standardize equipment and 
-tooling so that cross-training time and cost are reduced. Train and retrain the work team so that when deviations occur, they are readily apparent to all.
+- Standardize: Remove variations from the process by developing standard operating procedures and check-lists; good standards make the abnormal obvious. Standardize equipment and tooling so that cross-training time and cost are reduced. Train and retrain the work team so that when deviations occur, they are readily apparent to all.
 - Sustain: Review periodically to recognize efforts and to motivate to sustain 
 progress. Use visuals wherever possible to communicate and sustain progress.
 
 
+## Modul 9: Manajemen Proyek
+
+Setelah mempelajari modul ini, secara umum mahasiswa diharapkan dapat menjelaskan konsep proyek dan manajemen proyek serta alat dan teknik untuk mengelola proyek.
+
+Secara khusus, mahasiswa diharapkan mampu:
+
+1. menjelaskan pengertian manajemen proyek
+2. menjelaskan perencanaan proyek
+3. menjelaskan penjadwalan proyek
+4. menjelaskan pengendalian proyek
+5. menjelaskan PERT/CPM
+6. menjelaskan penjadwalan proyek dengan PERT dan CPM
+
+### KB 1 Manajemen Proyek
+
+- Proyek adalah kegiatan unik dan temporer yang terjadi pada suatu waktu tertentu pada jangka waktu terbatas.
+
+- Manajemen proyek adalah kegiatan merencanakan, mengorganisasikan, mengelola, memimpin serta mengevaluasi proyek yang berjangka waktu tertentu dan untuk memenuhi tujuan tertentu.
+- Scheduling projects can be a difficult challenge for operations managers. 
+- The stakes in project management are high. 
+- Cost overruns and unnecessary delays occur due to poor scheduling and poor controls.
+- The management of projects involves three phases:
+   1. Planning: This phase includes goal setting, defining the project, and team organization.
+   2. Scheduling: This phase relates people, money, and supplies to specific activities and relates activities to each other.
+   3. Controlling: Here the firm monitors resources, costs, quality, and budgets. It also revises or changes plans and shifts resources to meet time and cost demands.
+
+![](planning.png)
+<br />
+
+![](schedulling.png)
+<br />
+
+![](controlling.png)
+`Sumber: Heizer, et.al. (2020)`
+
+<br />
 
 
+- Three popular techniques to allow managers to plan, schedule, and control—Gantt charts, PERT, and CPM
+- Whatever the approach taken by a project manager, project scheduling serves 
+several purposes:
 
+  1. It shows the relationship of each activity to others and to the whole project.
+  2. It identifies the precedence relationships among activities.
+  3. It encourages the setting of realistic time and cost estimates for each activity.
+  4. It helps make better use of people, money, and material resources by identifying critical bottlenecks in the project.
 
+#### Gantt charts 
 
+- Gantt charts are low-cost means of helping managers make sure that (1) activities are planned, (2) order of performance is documented, (3) activity time estimates are recorded, and (4) overall project time is developed.
+- Easy to understand
 
+![](Gantt-charts.png)
+`Sumber: Heizer, et.al. (2020)`
 
+#### Project Management Techniques: PERT and CPM
 
+PERT and CPM both follow six basic steps:
 
+  1. Define the project and prepare the work breakdown structure.
+  2. Develop the relationships among the activities. Decide which activities must precede and which must follow others.
+  3. Draw the network connecting all the activities.
+  4. Assign time and/or cost estimates to each activity.
+  5. Compute the longest time path through the network. This is called the critical path.
+  6. Use the network to help plan, schedule, monitor, and control the project.
 
+PERT and CPM are important because they can help answer questions such as the follow-
+ing about projects with thousands of activities:
 
-![]()
+  1. When will the entire project be completed?
+  2. What are the critical activities or tasks in the project—that is, which activities will delay the entire project if they are late?
+  3. Which are the noncritical activities—the ones that can run late without delaying the whole project’s completion?
+  4. What is the probability that the project will be completed by a specific date?
+  5. At any particular date, is the project on schedule, behind schedule, or ahead of schedule?
+  6. On any given date, is the money spent equal to, less than, or greater than the budgeted 
+amount?
+  7. Are there enough resources available to finish the project on time?
+  8. If the project is to be finished in a shorter amount of time, what is the best way to accomplish this goal at the least cost?
+  
+--> Lihat contoh dan latihan di BMP
+
 
 
